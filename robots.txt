@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muskegonhvacco.com/sitemap.xml
